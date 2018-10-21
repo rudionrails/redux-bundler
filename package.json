@@ -9,17 +9,17 @@
   "devDependencies": {
     "create-selector": "4.0.1",
     "feather-route-matcher": "3.0.0",
-    "idb-keyval": "2.3.0",
-    "microbundle": "0.4.4",
-    "nodemon": "1.10.2",
-    "prettier-standard": "8.0.0",
-    "querystringify": "0.0.4",
-    "redux": "4.0.0",
+    "idb-keyval": "3.1.0",
+    "microbundle": "0.6.0",
+    "nodemon": "1.18.4",
+    "prettier-standard": "8.0.1",
+    "querystringify": "2.1.0",
+    "redux": "4.0.1",
     "redux-persist-middleware": "1.0.1",
-    "standard": "10.0.3",
-    "tap-spec": "4.1.1",
-    "tape": "4.6.0",
-    "whatwg-url": "6.3.0"
+    "standard": "12.0.1",
+    "tap-spec": "5.0.0",
+    "tape": "4.9.1",
+    "whatwg-url": "7.0.0"
   },
   "files": [
     "dist"
